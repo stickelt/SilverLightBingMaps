@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="A94DBB91-AAA2-4F3E-9CE2-E07C6A4CBC21" ModuleId="SilverlightBingMaps" />
+  <Module PersistentId="FBE01D34-9402-4F13-97CB-F76150D41A8D" ModuleId="SilverlightBingMaps.Web" />
+</Modules>

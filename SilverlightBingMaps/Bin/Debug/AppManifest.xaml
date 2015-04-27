@@ -1,0 +1,7 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SilverlightBingMaps" EntryPointType="SilverlightBingMaps.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SilverlightBingMaps" Source="SilverlightBingMaps.dll" />
+    <AssemblyPart x:Name="Microsoft.Maps.MapControl.Common" Source="Microsoft.Maps.MapControl.Common.dll" />
+    <AssemblyPart x:Name="Microsoft.Maps.MapControl" Source="Microsoft.Maps.MapControl.dll" />
+  </Deployment.Parts>
+</Deployment>

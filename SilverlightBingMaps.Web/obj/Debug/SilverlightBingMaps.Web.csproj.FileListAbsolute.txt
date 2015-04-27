@@ -1,0 +1,16 @@
+C:\dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\bin\SilverlightBingMaps.Web.dll
+C:\dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\bin\SilverlightBingMaps.Web.pdb
+C:\dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\obj\Debug\SilverlightBingMaps.Web.dll
+C:\dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\obj\Debug\SilverlightBingMaps.Web.pdb
+D:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\bin\SilverlightBingMaps.Web.dll
+D:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\bin\SilverlightBingMaps.Web.pdb
+D:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\obj\Debug\SilverlightBingMaps.Web.dll
+D:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\obj\Debug\SilverlightBingMaps.Web.pdb
+D:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\obj\Debug\SilverlightBingMaps.Web.csprojResolveAssemblyReference.cache
+K:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\bin\SilverlightBingMaps.Web.dll.config
+K:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\bin\SilverlightBingMaps.Web.dll
+K:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\bin\SilverlightBingMaps.Web.pdb
+K:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\obj\Debug\SilverlightBingMaps.Web.csprojResolveAssemblyReference.cache
+K:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\obj\Debug\SilverlightBingMaps.Web.dll
+K:\Dev\SilverlightBingMaps\SilverlightBingMaps\SilverlightBingMaps.Web\obj\Debug\SilverlightBingMaps.Web.pdb
